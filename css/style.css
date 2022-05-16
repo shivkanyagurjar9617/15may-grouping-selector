@@ -1,0 +1,14 @@
+h1,h2{
+    color:crimson;
+   font-size:2em;
+   text-align: center;
+}
+h3{
+    color:blue;
+    font-size: 2em;
+    text-align: center;
+}
+
+body{
+    background-color:aqua;
+}
